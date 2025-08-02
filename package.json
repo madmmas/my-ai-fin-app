@@ -37,6 +37,9 @@
     "vite": "^5.4.19"
   },
   "dependencies": {
+    "@cloudscape-design/components": "^3.0.1046",
+    "@cloudscape-design/design-tokens": "^3.0.59",
+    "@cloudscape-design/global-styles": "^1.0.45",
     "@types/react": "^19.1.9",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^4.7.0",
