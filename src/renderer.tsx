@@ -1,12 +1,7 @@
 import { createRoot } from 'react-dom/client';
+import "@cloudscape-design/global-styles/index.css";
 
-const App = () => {
-  return (
-    <div>
-        <h1>💖 Hello World!</h1>
-    </div>
-  );
-}
+import { App } from './app';
 
 const root = createRoot(document.getElementById('root'));
 root.render(<App />);
